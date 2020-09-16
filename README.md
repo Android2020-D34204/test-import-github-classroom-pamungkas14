@@ -1,3 +1,4 @@
 # text-import-github
 Test import untuk keperluan tugas dan praktikum
-Test
+
+Test(Alvino Dicky Pamungkas 6701184042)
